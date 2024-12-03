@@ -1,0 +1,18 @@
+0,1
+Sample Date:,May 2001
+Prepared by:,Accelio Present Applied Technology
+Created and Tested Using:,"• Accelio Present Central 5.4
+• Accelio Present Output Designer 5.4"
+Features Demonstrated:,"• Primary bookmarks in a PDF file.
+• Secondary bookmarks in a PDF file."
+Filename,Description
+ap_bookmark.IFD,The template design.
+ap_bookmark.mdf,The template targeted for PDF output.
+ap_bookmark.dat,A sample data file in DAT format.
+ap_bookmark.bmk,A sample bookmark file.
+ap_bookmark.pdf,Sample PDF output.
+ap_bookmark_doc.pdf,A document describing the sample.
+To bookmark by (cid:133),Use the command line parameter (cid:133)
+Invoices,-abmkap_bookmark.bmk -abmsinvoices
+Type,-abmkap_bookmark.bmk -abmstype
+Amount,-abmkap_bookmark.bmk -abmsamount
